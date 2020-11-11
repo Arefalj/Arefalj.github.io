@@ -84,7 +84,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : arefalj
+  username               : aref_alj
 facebook:
   username               : arefalj
   app_id                 :
@@ -109,10 +109,10 @@ analytics:
 author:
   name             : "Aref Alijannezhad"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : iust student 
-  location         : "تهران"
+  bio              : iust student ce 
+  location         : "babol"
   email            : aref.alj1381@gmail.com
-  twitter: arefalj
+  twitter: aref_alj
   linkedin: arefalj
   google_scholar: Q25s5KkAAAAJ
   github: arefalj
