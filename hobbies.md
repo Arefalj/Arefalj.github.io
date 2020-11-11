@@ -3,12 +3,12 @@ layout: single
 author_profile: true
 permalink: /hobbies/
 title: Hobbies
-tags: [Hoby]
+tags: [yt]
 modified: 9-14-2019
 comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* [yt](https://www.youtube.com//)
 
 
