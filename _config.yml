@@ -20,7 +20,7 @@ locale                   : "en-US"
 title                    : "عارف علیجان نژاد"
 title_separator          : "-"
 name                     : "Aref" 
-description              : "Welcome to my web site."
+description              : "Welcome to my web .site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Aref Alijannezhad"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : iust student ce 
+  bio              : iust student ce ..
   location         : "babol"
   email            : aref.alj1381@gmail.com
   twitter: aref_alj
