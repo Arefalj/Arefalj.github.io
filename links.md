@@ -10,7 +10,7 @@ comments: false
 
 
 * [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
+* [Places I want to visit](https://en.wikipedia.org/wiki/Vancouver)
 * [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+* [My university](http://www.iust.ac.ir)
 
