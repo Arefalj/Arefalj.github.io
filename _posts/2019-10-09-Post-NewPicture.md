@@ -5,7 +5,8 @@ title: Managing time
 
 
 
-
+{:style=text-align:right"}
+{:style=text-align:justify"}
 نتیجه صحبت کردن با اساتید حل تمرین :
 
 داشتن بر نامه ریزی هفتگی و روزانه:
