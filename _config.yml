@@ -12,7 +12,7 @@
 
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
-# remote_theme           : "mmistakes/minimal-mistakes"
+remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "aqua" #"neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Aref Alijannezhad"
   avatar           : "/assets/images/arefalj.jpg"
-  bio              : iust student ce ....
+  bio              : iust student ce ..
   location         : "babol"
   email            : aref.alj1381@gmail.com
   twitter: aref_alj
