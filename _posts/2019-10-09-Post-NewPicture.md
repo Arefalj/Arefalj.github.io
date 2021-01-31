@@ -30,5 +30,5 @@ title: Managing time
 سایت من :
 http://99521478.pythonanywhere.com/Blog/ 
 
-*[alt]=/assets/images/labexam.jpg
-  
+
+<img src="\assets\images\hacketan.jpg" alt="alt text">
