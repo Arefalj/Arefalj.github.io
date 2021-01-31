@@ -17,4 +17,4 @@ http://99521478.pythonanywhere.com/Blog/
 
 
 
-<img src="\assets\images\hacketan.jpg" alt="alt text">
+<img src="\assets\images\hacketan.png" alt="alt text">
