@@ -29,3 +29,6 @@ title: Managing time
 
 سایت من :
 http://99521478.pythonanywhere.com/Blog/ 
+
+*[alt]=/assets/images/labexam.jpg
+  
